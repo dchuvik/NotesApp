@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableExersice\\VariableExersice\\VariableExersice.csproj",
-      "projectName": "VariableExersice",
-      "projectPath": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableExersice\\VariableExersice\\VariableExersice.csproj",
+      "projectUniqueName": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableEx\\VariableEx\\VariableEx.csproj",
+      "projectName": "VariableEx",
+      "projectPath": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableEx\\VariableEx\\VariableEx.csproj",
       "packagesPath": "C:\\Users\\dchuv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableExersice\\VariableExersice\\obj\\",
+      "outputPath": "C:\\Users\\dchuv\\OneDrive\\Desktop\\repos\\VariableEx\\VariableEx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dchuv\\AppData\\Roaming\\NuGet\\NuGet.Config",
