@@ -1,0 +1,14 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.genruntimeconfig.cache
