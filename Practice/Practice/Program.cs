@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Practice
 {
@@ -6,14 +8,25 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Pow(5));
+
+            Console.WriteLine(Kata.High("Hello"));
+
         }
 
-        public static int Pow(int number)
-        {
-            return 5;
-            
+    }
 
+    public class Kata
+    {
+        public static string High(string s)
+        {
+          s.Split(" ")
+          s.Select(word => word.Select(c => c));
         }
     }
+
 }
+
+//foreach (char c in sentence)
+//{
+//   var changedChar = char.ToUpper(c);
+//}

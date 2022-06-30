@@ -11,7 +11,7 @@ namespace FactoryPatternExercise1
         }
         public void Drive()
         {
-            Console.WriteLine("Building a new Car!");
+            Console.WriteLine("Building a new Car!\n");
         }
     }
 }
